@@ -1,1 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+}
 
+.section {
+  background-color: #ccc;
+  padding: 20px;
+  margin: 20px;
+  height: 1000px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
